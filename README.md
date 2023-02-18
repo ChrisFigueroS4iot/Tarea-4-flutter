@@ -1,16 +1,23 @@
-# list_views_cript
+# Tarea 4: List views crypto
 
-A new Flutter project.
+- Listview
+- Assets
+- Constrainedbox
+- Objetos 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Lo que me costo mas trabajo
+- La parte de recorrer el objeto y que funcionar.
 
-A few resources to get you started if this is your first Flutter project:
+- El como limitar el tamaño de las imagenes, antes me crasheaba la aplicación por pasar del tamaño correcto.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Lo que aprendi
+
+- Como utilizar los list view.
+
+- Recorrer un objeto.
+
+
+![alt text](./assets/Captura1.PNG)
+![alt text](./assets/Captura2.PNG)
